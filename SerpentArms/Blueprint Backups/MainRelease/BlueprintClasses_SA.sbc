@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  
+	
+	
+	
+ <BlueprintClassEntries>	
+ 
+ <!-- Gauss -->
+ <Entry Class="Consumables" BlueprintSubtypeId="K_SA_Main_GaussMagazine_Case" />
+ <Entry Class="Consumables" BlueprintSubtypeId="K_SA_Main_GaussMagazine_CaseFlash" />
+ 
+  <!-- ER Gauss -->
+ <Entry Class="Consumables" BlueprintSubtypeId="K_SA_Main_GaussMagazine_CaseHeavy" />
+  <Entry Class="Consumables" BlueprintSubtypeId="K_SA_Main_GaussMagazine_CaseHeavyPhoenix" />
+ 
+  <!-- Missile -->
+ <Entry Class="Consumables" BlueprintSubtypeId="K_SA_Main_Missile_Grimlock_Standard" />
+  <Entry Class="Consumables" BlueprintSubtypeId="K_SA_Main_Missile_Grimlock_KineticKill" />
+ <Entry Class="Consumables" BlueprintSubtypeId="K_SA_Main_Missile_Grimlock_GravityFissure" />
+ 
+ 
+  <!-- Gauss -->
+ <Entry Class="Ammo" BlueprintSubtypeId="K_SA_Main_GaussMagazine_Case" />
+ <Entry Class="Ammo" BlueprintSubtypeId="K_SA_Main_GaussMagazine_CaseFlash" />
+ 
+  <!-- ER Gauss -->
+ <Entry Class="Ammo" BlueprintSubtypeId="K_SA_Main_GaussMagazine_CaseHeavy" />
+  <Entry Class="Ammo" BlueprintSubtypeId="K_SA_Main_GaussMagazine_CaseHeavyPhoenix" />
+ 
+  <!-- Missile -->
+ <Entry Class="Ammo" BlueprintSubtypeId="K_SA_Main_Missile_Grimlock_Standard" />
+  <Entry Class="Ammo" BlueprintSubtypeId="K_SA_Main_Missile_Grimlock_KineticKill" />
+ <Entry Class="Ammo" BlueprintSubtypeId="K_SA_Main_Missile_Grimlock_GravityFissure" />
+
+ 
+		   </BlueprintClassEntries>
+</Definitions>
